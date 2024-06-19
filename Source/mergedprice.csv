@@ -1,0 +1,438 @@
+,FlightName,FlightCode,DepartingCity,DepartingTime,ArrivingCity,ArrivingTime,Duration,MMTPrice,YatraPrice,GoPrice
+1,Air India,AI 621,Mumbai,03:55:00,Bengaluru,05:50,01 h 55 m,2307,3486,6823
+2,AirAsia,I5 670,Mumbai,19:55:00,Bengaluru,21:45,01 h 50 m,2773,5274,5772
+3,AirAsia,I5 2992,Mumbai,23:55:00,Bengaluru,"01:45
++ 1 DAY",01 h 50 m,2773,5096,4606
+4,IndiGo,6E 5388,Mumbai,21:30:00,Bengaluru,23:15,01 h 45 m,2839,6906,3699
+5,Akasa Air,QP 1103,Mumbai,00:45:00,Bengaluru,02:20,01 h 35 m,3005,6941,7040
+6,Akasa Air,QP 1103,Mumbai,00:45:00,Bengaluru,02:20,01 h 35 m,3005,5951,7924
+7,Akasa Air,QP 1103,Mumbai,00:45:00,Bengaluru,02:20,01 h 35 m,3005,3801,4287
+8,Akasa Air,QP 1341,Mumbai,20:00:00,Bengaluru,21:35,01 h 35 m,3005,5122,7271
+9,Akasa Air,QP 1341,Mumbai,20:00:00,Bengaluru,21:35,01 h 35 m,3005,4477,7697
+10,Akasa Air,QP 1139,Mumbai,18:05:00,Bengaluru,19:40,01 h 35 m,3053,7892,5999
+11,IndiGo,6E 6953,Mumbai,00:50:00,Bengaluru,02:40,01 h 50 m,3219,7574,3895
+12,Akasa Air,QP 1306,Mumbai,19:00:00,Bengaluru,20:35,01 h 35 m,3283,5125,7859
+45,Akasa Air,QP 1340,Bengaluru,05:30:00,Mumbai,07:20,01 h 50 m,3345,3745,5811
+13,IndiGo,6E 5352,Mumbai,06:10:00,Bengaluru,07:50,01 h 40 m,3420,3635,5852
+14,IndiGo,6E 5382,Mumbai,12:30:00,Bengaluru,14:15,01 h 45 m,3420,4922,5545
+15,IndiGo,6E 5382,Mumbai,12:30:00,Bengaluru,14:15,01 h 45 m,3420,5101,6217
+46,IndiGo,6E 5295,Bengaluru,04:25:00,Mumbai,06:20,01 h 55 m,3520,7777,7874
+47,IndiGo,6E 5295,Bengaluru,04:25:00,Mumbai,06:20,01 h 55 m,3520,3375,7143
+48,Akasa Air,QP 1624,Bengaluru,04:50:00,Mumbai,06:55,02 h 05 m,3525,3668,6713
+16,Air India,AI 607,Mumbai,16:40:00,Bengaluru,18:25,01 h 45 m,3578,4747,5632
+17,IndiGo,6E 5069,Mumbai,11:15:00,Bengaluru,13:00,01 h 45 m,3650,6422,4948
+18,IndiGo,6E 5069,Mumbai,11:15:00,Bengaluru,13:00,01 h 45 m,3650,7320,3029
+49,IndiGo,6E 5124,Bengaluru,05:00:00,Mumbai,06:50,01 h 50 m,3900,5677,5758
+50,IndiGo,6E 5124,Bengaluru,05:00:00,Mumbai,06:50,01 h 50 m,3900,6982,5952
+51,IndiGo,6E 5124,Bengaluru,05:00:00,Mumbai,06:50,01 h 50 m,3900,4583,3602
+52,Akasa Air,QP 1138,Bengaluru,15:45:00,Mumbai,17:20,01 h 35 m,3939,7089,7147
+53,Akasa Air,QP 1138,Bengaluru,15:45:00,Mumbai,17:20,01 h 35 m,3939,4355,7639
+19,Vistara,UK 849,Mumbai,17:30:00,Bengaluru,19:15,01 h 45 m,4075,4653,3271
+54,IndiGo,6E 5351,Bengaluru,15:00:00,Mumbai,16:40,01 h 40 m,4090,4386,4897
+55,IndiGo,6E 5251,Bengaluru,16:30:00,Mumbai,18:15,01 h 45 m,4090,6001,6242
+56,IndiGo,6E 939,Bengaluru,22:45:00,Mumbai,"00:35
++ 1 DAY",01 h 50 m,4090,6557,5687
+20,IndiGo,6E 5125,Mumbai,23:15:00,Bengaluru,"00:50
++ 1 DAY",01 h 35 m,4100,3545,4689
+21,IndiGo,6E 5125,Mumbai,23:15:00,Bengaluru,"00:50
++ 1 DAY",01 h 35 m,4100,7447,3276
+57,IndiGo,6E 5209,Bengaluru,06:00:00,Mumbai,07:35,01 h 35 m,4140,5654,6964
+58,IndiGo,6E 5293,Bengaluru,12:15:00,Mumbai,14:05,01 h 50 m,4140,5099,6605
+59,IndiGo,6E 5293,Bengaluru,12:15:00,Mumbai,14:05,01 h 50 m,4140,5142,5331
+60,Akasa Air,QP 1104,Bengaluru,11:45:00,Mumbai,13:30,01 h 45 m,4249,7199,4341
+22,Akasa Air,QP 1110,Mumbai,09:25:00,Bengaluru,11:05,01 h 40 m,4300,3020,5469
+61,IndiGo,6E 6347,Bengaluru,21:45:00,Mumbai,23:40,01 h 55 m,4400,5782,5716
+62,IndiGo,6E 6347,Bengaluru,21:45:00,Mumbai,23:40,01 h 55 m,4400,5859,4011
+63,AirAsia,I5 472,Bengaluru,02:00:00,Mumbai,04:00,02 h,4401,3838,5074
+23,Vistara,UK 845,Mumbai,05:55:00,Bengaluru,07:45,01 h 50 m,4436,7739,5344
+346,Akasa Air,QP 1406,New Delhi,12:45:00,Hyderabad,15:05,02 h 20 m,4548,5567,3769
+24,IndiGo,6E 6293,Mumbai,07:45:00,Bengaluru,09:30,01 h 45 m,4600,6918,5891
+25,Vistara,UK 853,Mumbai,16:00:00,Bengaluru,17:45,01 h 45 m,4600,6427,6236
+64,Air India,AI 604,Bengaluru,09:20:00,Mumbai,11:35,02 h 15 m,4621,3659,7839
+65,Air India,AI 604,Bengaluru,09:20:00,Mumbai,11:35,02 h 15 m,4621,6346,6477
+66,Akasa Air,QP 1109,Bengaluru,06:55:00,Mumbai,08:35,01 h 40 m,4629,5998,5115
+236,IndiGo,6E 2111,Mumbai,02:30:00,New Delhi,04:40,02 h 10 m,4745,4041,5878
+237,IndiGo,6E 2056,Mumbai,05:00:00,New Delhi,07:15,02 h 15 m,4745,4127,5431
+238,IndiGo,6E 5187,Mumbai,06:05:00,New Delhi,08:10,02 h 05 m,4745,4097,7238
+239,IndiGo,6E 2398,Mumbai,07:00:00,New Delhi,09:10,02 h 10 m,4745,4685,3274
+240,Air India,AI 864,Mumbai,07:00:00,New Delhi,09:15,02 h 15 m,4745,3326,3152
+241,Air India,AI 864,Mumbai,07:00:00,New Delhi,09:15,02 h 15 m,4745,3652,4273
+242,Air India,AI 864,Mumbai,07:00:00,New Delhi,09:15,02 h 15 m,4745,3118,4106
+243,IndiGo,6E 825,Mumbai,07:45:00,New Delhi,09:55,02 h 10 m,4745,3895,3388
+244,IndiGo,6E 825,Mumbai,07:45:00,New Delhi,09:55,02 h 10 m,4745,4193,4581
+245,Akasa Air,QP 1410,Mumbai,07:55:00,New Delhi,10:10,02 h 15 m,4745,6967,7444
+246,IndiGo,6E 2139,Mumbai,08:30:00,New Delhi,10:40,02 h 10 m,4745,7910,6506
+247,Air India,AI 866,Mumbai,09:00:00,New Delhi,11:20,02 h 20 m,4745,6520,7800
+248,SpiceJet,SG 158,Mumbai,09:05:00,New Delhi,11:20,02 h 15 m,4745,6067,6582
+249,IndiGo,6E 5008,Mumbai,09:30:00,New Delhi,11:40,02 h 10 m,4745,7959,4060
+250,IndiGo,6E 5008,Mumbai,09:30:00,New Delhi,11:40,02 h 10 m,4745,5223,6061
+251,Air India,AI 809,Mumbai,10:00:00,New Delhi,12:20,02 h 20 m,4745,6533,7719
+252,Air India,AI 623,Mumbai,10:25:00,New Delhi,12:40,02 h 15 m,4745,3926,3581
+253,Air India,AI 623,Mumbai,10:25:00,New Delhi,12:40,02 h 15 m,4745,5890,3401
+254,IndiGo,6E 6821,Mumbai,10:30:00,New Delhi,12:50,02 h 20 m,4745,5839,4738
+255,IndiGo,6E 5113,Mumbai,11:45:00,New Delhi,14:05,02 h 20 m,4745,6933,7416
+256,IndiGo,6E 5113,Mumbai,11:45:00,New Delhi,14:05,02 h 20 m,4745,4876,6819
+257,IndiGo,6E 2015,Mumbai,12:45:00,New Delhi,14:55,02 h 10 m,4745,6543,5373
+258,Akasa Air,QP 1127,Mumbai,13:05:00,New Delhi,15:10,02 h 05 m,4745,6605,3667
+259,IndiGo,6E 993,Mumbai,14:30:00,New Delhi,16:35,02 h 05 m,4745,6929,5710
+260,Air India,AI 442,Mumbai,15:35:00,New Delhi,18:10,02 h 35 m,4745,3849,4458
+261,IndiGo,6E 2326,Mumbai,15:45:00,New Delhi,17:55,02 h 10 m,4745,6492,5270
+262,IndiGo,6E 2326,Mumbai,15:45:00,New Delhi,17:55,02 h 10 m,4745,5930,7465
+263,Air India,AI 687,Mumbai,16:00:00,New Delhi,18:20,02 h 20 m,4745,3371,4538
+264,IndiGo,6E 2103,Mumbai,17:15:00,New Delhi,19:25,02 h 10 m,4745,7870,3079
+265,SpiceJet,SG 710,Mumbai,22:30:00,New Delhi,"01:00
++ 1 DAY",02 h 30 m,4745,3273,5558
+266,IndiGo,6E 2083,Mumbai,22:50:00,New Delhi,"01:00
++ 1 DAY",02 h 10 m,4745,3877,3586
+267,IndiGo,6E 2126,Mumbai,23:55:00,New Delhi,"02:00
++ 1 DAY",02 h 05 m,4745,4693,7389
+268,IndiGo,6E 2126,Mumbai,23:55:00,New Delhi,"02:00
++ 1 DAY",02 h 05 m,4745,6725,3169
+347,IndiGo,6E 2461,New Delhi,01:55:00,Hyderabad,04:10,02 h 15 m,4750,4556,7427
+348,IndiGo,6E 2337,New Delhi,05:40:00,Hyderabad,07:55,02 h 15 m,4750,7651,6024
+349,IndiGo,6E 6203,New Delhi,06:30:00,Hyderabad,08:40,02 h 10 m,4750,7369,6745
+350,Air India,AI 560,New Delhi,07:10:00,Hyderabad,09:20,02 h 10 m,4750,7016,3577
+351,Air India,AI 560,New Delhi,07:10:00,Hyderabad,09:20,02 h 10 m,4750,4293,7957
+352,Air India,AI 560,New Delhi,07:10:00,Hyderabad,09:20,02 h 10 m,4750,6579,5274
+353,IndiGo,6E 774,New Delhi,08:10:00,Hyderabad,10:20,02 h 10 m,4750,5927,7388
+354,IndiGo,6E 774,New Delhi,08:10:00,Hyderabad,10:20,02 h 10 m,4750,5772,6234
+355,Air India,AI 542,New Delhi,09:30:00,Hyderabad,12:00,02 h 30 m,4750,5256,4957
+356,IndiGo,6E 2005,New Delhi,10:10:00,Hyderabad,12:15,02 h 05 m,4750,4999,5177
+357,Air India,AI 522,New Delhi,11:05:00,Hyderabad,13:25,02 h 20 m,4750,5353,3244
+358,IndiGo,6E 837,New Delhi,13:30:00,Hyderabad,15:45,02 h 15 m,4750,3313,7602
+359,IndiGo,6E 2187,New Delhi,15:05:00,Hyderabad,17:20,02 h 15 m,4750,6508,3519
+360,IndiGo,6E 2187,New Delhi,15:05:00,Hyderabad,17:20,02 h 15 m,4750,7944,4007
+361,Air India,AI 544,New Delhi,17:00:00,Hyderabad,19:10,02 h 10 m,4750,4464,3687
+362,IndiGo,6E 5312,New Delhi,17:15:00,Hyderabad,19:25,02 h 10 m,4750,4738,3468
+363,IndiGo,6E 5312,New Delhi,17:15:00,Hyderabad,19:25,02 h 10 m,4750,5314,5105
+364,IndiGo,6E 2341,New Delhi,18:45:00,Hyderabad,21:00,02 h 15 m,4750,6288,3420
+365,IndiGo,6E 605,New Delhi,19:45:00,Hyderabad,22:00,02 h 15 m,4750,6527,6216
+366,IndiGo,6E 605,New Delhi,19:45:00,Hyderabad,22:00,02 h 15 m,4750,3566,4869
+367,IndiGo,6E 2371,New Delhi,21:25:00,Hyderabad,23:40,02 h 15 m,4750,6588,5048
+368,Air India,AI 839,New Delhi,21:30:00,Hyderabad,23:45,02 h 15 m,4750,3754,5022
+186,Akasa Air,QP 1719,New Delhi,09:00:00,Mumbai,10:55,01 h 55 m,4758,6002,6264
+187,Akasa Air,QP 1411,New Delhi,10:55:00,Mumbai,13:05,02 h 10 m,4758,6890,6025
+188,Akasa Air,QP 1128,New Delhi,16:00:00,Mumbai,18:10,02 h 10 m,4758,4964,7111
+189,IndiGo,6E 2009,New Delhi,01:00:00,Mumbai,03:00,02 h,4780,4930,4328
+190,IndiGo,6E 2112,New Delhi,05:30:00,Mumbai,07:35,02 h 05 m,4780,7998,7643
+191,IndiGo,6E 2112,New Delhi,05:30:00,Mumbai,07:35,02 h 05 m,4780,3138,4878
+192,IndiGo,6E 2112,New Delhi,05:30:00,Mumbai,07:35,02 h 05 m,4780,5695,5085
+193,IndiGo,6E 5218,New Delhi,06:30:00,Mumbai,08:50,02 h 20 m,4780,3584,4268
+194,IndiGo,6E 5218,New Delhi,06:30:00,Mumbai,08:50,02 h 20 m,4780,5372,6402
+195,IndiGo,6E 6814,New Delhi,07:15:00,Mumbai,09:20,02 h 05 m,4780,4466,7737
+196,IndiGo,6E 2075,New Delhi,08:00:00,Mumbai,10:15,02 h 15 m,4780,6220,5181
+197,Air India,AI 665,New Delhi,08:00:00,Mumbai,10:20,02 h 20 m,4780,4534,7425
+198,IndiGo,6E 5112,New Delhi,09:00:00,Mumbai,10:55,01 h 55 m,4780,4942,7085
+199,IndiGo,6E 2328,New Delhi,10:00:00,Mumbai,12:15,02 h 15 m,4780,4255,3157
+200,IndiGo,6E 2328,New Delhi,10:00:00,Mumbai,12:15,02 h 15 m,4780,6084,3312
+201,Air India,AI 865,New Delhi,10:00:00,Mumbai,12:30,02 h 30 m,4780,3579,6475
+202,IndiGo,6E 824,New Delhi,11:00:00,Mumbai,13:00,02 h,4780,4414,7736
+203,IndiGo,6E 824,New Delhi,11:00:00,Mumbai,13:00,02 h,4780,6994,6000
+204,SpiceJet,SG 157,New Delhi,12:10:00,Mumbai,14:35,02 h 25 m,4780,3281,3332
+205,IndiGo,6E 6092,New Delhi,12:55:00,Mumbai,15:05,02 h 10 m,4780,3028,7954
+206,IndiGo,6E 6092,New Delhi,12:55:00,Mumbai,15:05,02 h 10 m,4780,5505,7176
+207,Air India,AI 620,New Delhi,13:30:00,Mumbai,15:40,02 h 10 m,4780,7316,3393
+208,Air India,AI 863,New Delhi,14:00:00,Mumbai,16:20,02 h 20 m,4780,4011,7472
+209,IndiGo,6E 2176,New Delhi,14:20:00,Mumbai,16:30,02 h 10 m,4780,6974,5788
+210,IndiGo,6E 2016,New Delhi,15:45:00,Mumbai,18:00,02 h 15 m,4780,4903,4163
+211,IndiGo,6E 5197,New Delhi,16:30:00,Mumbai,18:40,02 h 10 m,4780,7162,3327
+212,IndiGo,6E 5197,New Delhi,16:30:00,Mumbai,18:40,02 h 10 m,4780,3570,3669
+213,Air India,AI 441,New Delhi,17:15:00,Mumbai,19:30,02 h 15 m,4780,6059,4235
+214,IndiGo,6E 864,New Delhi,17:30:00,Mumbai,19:40,02 h 10 m,4780,4397,5371
+215,IndiGo,6E 2017,New Delhi,18:30:00,Mumbai,20:35,02 h 05 m,4780,7395,4352
+216,SpiceJet,SG 8709,New Delhi,18:55:00,Mumbai,21:25,02 h 30 m,4780,7954,7362
+217,IndiGo,6E 2084,New Delhi,19:45:00,Mumbai,22:00,02 h 15 m,4780,5062,6193
+218,IndiGo,6E 2084,New Delhi,19:45:00,Mumbai,22:00,02 h 15 m,4780,5541,5901
+219,Air India,AI 805,New Delhi,20:00:00,Mumbai,22:10,02 h 10 m,4780,6513,6227
+220,IndiGo,6E 6424,New Delhi,20:15:00,Mumbai,22:45,02 h 30 m,4780,7244,4814
+221,IndiGo,6E 6083,New Delhi,21:00:00,Mumbai,23:05,02 h 05 m,4780,6088,6650
+222,IndiGo,6E 2114,New Delhi,22:00:00,Mumbai,"00:05
++ 1 DAY",02 h 05 m,4780,4106,5077
+223,Air India,AI 814,New Delhi,22:30:00,Mumbai,"00:45
++ 1 DAY",02 h 15 m,4780,4999,7880
+224,Air India,AI 814,New Delhi,22:30:00,Mumbai,"00:45
++ 1 DAY",02 h 15 m,4780,3886,4795
+225,IndiGo,6E 2519,New Delhi,23:15:00,Mumbai,"01:20
++ 1 DAY",02 h 05 m,4780,5293,5761
+369,Vistara,UK 879,New Delhi,17:35:00,Hyderabad,19:50,02 h 15 m,4873,3623,3759
+226,Vistara,UK 951,New Delhi,14:20:00,Mumbai,16:25,02 h 05 m,4880,7894,7335
+67,AirAsia,I5 2991,Bengaluru,21:25:00,Mumbai,23:10,01 h 45 m,4899,6587,6034
+68,IndiGo,6E 488,Bengaluru,10:15:00,Mumbai,11:55,01 h 40 m,4900,7755,7124
+69,IndiGo,6E 5134,Bengaluru,13:45:00,Mumbai,15:20,01 h 35 m,4900,4104,3683
+370,Vistara,UK 859,New Delhi,10:25:00,Hyderabad,12:35,02 h 10 m,4904,3408,3367
+371,Vistara,UK 899,New Delhi,14:45:00,Hyderabad,17:00,02 h 15 m,4925,4793,3175
+372,Vistara,UK 899,New Delhi,14:45:00,Hyderabad,17:00,02 h 15 m,4925,6626,6615
+227,Vistara,UK 995,New Delhi,10:20:00,Mumbai,12:35,02 h 15 m,4933,7903,7987
+376,Akasa Air,QP 1407,Hyderabad,19:25:00,New Delhi,21:45,02 h 20 m,4979,7061,6481
+373,SpiceJet,SG 8164,New Delhi,23:00:00,Hyderabad,"01:00
++ 1 DAY",02 h,4981,3391,3823
+377,IndiGo,6E 379,Hyderabad,05:05:00,New Delhi,07:25,02 h 20 m,4986,6245,6331
+378,IndiGo,6E 491,Hyderabad,09:30:00,New Delhi,11:50,02 h 20 m,4986,3739,3290
+379,IndiGo,6E 2171,Hyderabad,11:55:00,New Delhi,14:05,02 h 10 m,4986,7693,5871
+380,IndiGo,6E 2063,Hyderabad,14:25:00,New Delhi,16:45,02 h 20 m,4986,6517,3034
+381,IndiGo,6E 2063,Hyderabad,14:25:00,New Delhi,16:45,02 h 20 m,4986,4159,4632
+382,IndiGo,6E 2063,Hyderabad,14:25:00,New Delhi,16:45,02 h 20 m,4986,5146,5359
+383,IndiGo,6E 2003,Hyderabad,18:15:00,New Delhi,20:30,02 h 15 m,4986,3678,3641
+384,IndiGo,6E 2003,Hyderabad,18:15:00,New Delhi,20:30,02 h 15 m,4986,7040,5483
+385,IndiGo,6E 5605,Hyderabad,21:55:00,New Delhi,"00:05
++ 1 DAY",02 h 10 m,4986,3002,4527
+386,IndiGo,6E 6146,Hyderabad,22:45:00,New Delhi,"01:00
++ 1 DAY",02 h 15 m,4986,4788,3183
+228,Vistara,UK 963,New Delhi,09:00:00,Mumbai,11:15,02 h 15 m,5038,6849,3387
+229,Vistara,UK 993,New Delhi,12:50:00,Mumbai,15:00,02 h 10 m,5038,3830,4391
+230,Vistara,UK 993,New Delhi,12:50:00,Mumbai,15:00,02 h 10 m,5038,4566,5964
+26,Akasa Air,QP 1625,Mumbai,13:35:00,Bengaluru,15:10,01 h 35 m,5039,7216,6482
+27,Akasa Air,QP 1625,Mumbai,13:35:00,Bengaluru,15:10,01 h 35 m,5039,4773,5242
+231,SpiceJet,SG 8192,New Delhi,18:20:00,Mumbai,20:45,02 h 25 m,5042,3583,3746
+387,Air India,AI 543,Hyderabad,10:05:00,New Delhi,12:30,02 h 25 m,5052,3388,5696
+70,Akasa Air,QP 1136,Bengaluru,06:25:00,Mumbai,07:55,01 h 30 m,5149,6449,6932
+71,Akasa Air,QP 1136,Bengaluru,06:25:00,Mumbai,07:55,01 h 30 m,5149,6997,5074
+269,IndiGo,6E 6082,Mumbai,18:00:00,New Delhi,20:00,02 h,5184,5871,6169
+388,IndiGo,6E 2011,Hyderabad,06:45:00,New Delhi,09:00,02 h 15 m,5210,5997,6844
+389,IndiGo,6E 2342,Hyderabad,08:40:00,New Delhi,10:45,02 h 05 m,5210,5935,7257
+390,IndiGo,6E 2342,Hyderabad,08:40:00,New Delhi,10:45,02 h 05 m,5210,3112,4316
+391,IndiGo,6E 6606,Hyderabad,16:30:00,New Delhi,18:50,02 h 20 m,5210,6126,5981
+91,Akasa Air,QP 1409,New Delhi,23:00:00,Bengaluru,"01:45
++ 1 DAY",02 h 45 m,5230,5966,7333
+92,AirAsia,I5 740,New Delhi,07:50:00,Bengaluru,10:40,02 h 50 m,5235,6515,5887
+93,AirAsia,I5 1534,New Delhi,22:55:00,Bengaluru,"01:35
++ 1 DAY",02 h 40 m,5235,4063,7290
+94,IndiGo,6E 2067,New Delhi,03:55:00,Bengaluru,06:45,02 h 50 m,5236,3612,6462
+95,IndiGo,6E 6612,New Delhi,05:50:00,Bengaluru,08:35,02 h 45 m,5236,4696,3263
+96,IndiGo,6E 6612,New Delhi,05:50:00,Bengaluru,08:35,02 h 45 m,5236,4580,3198
+97,IndiGo,6E 6612,New Delhi,05:50:00,Bengaluru,08:35,02 h 45 m,5236,4793,5193
+98,IndiGo,6E 2403,New Delhi,07:05:00,Bengaluru,09:50,02 h 45 m,5236,3723,6735
+99,IndiGo,6E 2403,New Delhi,07:05:00,Bengaluru,09:50,02 h 45 m,5236,3018,7892
+100,IndiGo,6E 308,New Delhi,08:00:00,Bengaluru,11:00,03 h,5236,3232,7241
+101,IndiGo,6E 2131,New Delhi,21:45:00,Bengaluru,"00:35
++ 1 DAY",02 h 50 m,5236,3117,6020
+102,IndiGo,6E 6565,New Delhi,22:55:00,Bengaluru,"01:40
++ 1 DAY",02 h 45 m,5236,3110,7523
+72,IndiGo,6E 5207,Bengaluru,07:05:00,Mumbai,08:55,01 h 50 m,5240,4683,4105
+103,Air India,AI 514,New Delhi,03:30:00,Bengaluru,06:25,02 h 55 m,5240,5310,6244
+104,Air India,AI 803,New Delhi,06:10:00,Bengaluru,09:00,02 h 50 m,5240,6697,6779
+105,Air India,AI 803,New Delhi,06:10:00,Bengaluru,09:00,02 h 50 m,5240,3343,7333
+106,Air India,AI 504,New Delhi,21:10:00,Bengaluru,"00:05
++ 1 DAY",02 h 55 m,5240,5020,6372
+270,Air India,AI 660,Mumbai,18:15:00,New Delhi,20:15,02 h,5281,4668,3224
+107,SpiceJet,SG 534,New Delhi,21:35:00,Bengaluru,"00:10
++ 1 DAY",02 h 35 m,5297,4915,5542
+108,SpiceJet,SG 534,New Delhi,21:35:00,Bengaluru,"00:10
++ 1 DAY",02 h 35 m,5297,7173,7859
+109,SpiceJet,SG 8143,New Delhi,23:55:00,Bengaluru,"02:40
++ 1 DAY",02 h 45 m,5297,5911,7275
+232,Vistara,UK 945,New Delhi,11:40:00,Mumbai,13:50,02 h 10 m,5316,4311,3191
+233,Air India,AI 605,New Delhi,21:15:00,Mumbai,23:35,02 h 20 m,5316,5774,6944
+139,IndiGo,6E 6247,Bengaluru,04:25:00,New Delhi,07:15,02 h 50 m,5354,5179,4597
+140,IndiGo,6E 5021,Bengaluru,05:35:00,New Delhi,08:25,02 h 50 m,5354,4780,4300
+141,IndiGo,6E 6621,Bengaluru,15:20:00,New Delhi,18:15,02 h 55 m,5354,5659,6925
+142,IndiGo,6E 5039,Bengaluru,16:45:00,New Delhi,19:35,02 h 50 m,5354,7010,5194
+143,IndiGo,6E 2174,Bengaluru,18:00:00,New Delhi,20:45,02 h 45 m,5354,4237,5244
+144,IndiGo,6E 2174,Bengaluru,18:00:00,New Delhi,20:45,02 h 45 m,5354,6293,5601
+145,IndiGo,6E 2174,Bengaluru,18:00:00,New Delhi,20:45,02 h 45 m,5354,7226,6428
+146,AirAsia,I5 1532,Bengaluru,19:10:00,New Delhi,22:05,02 h 55 m,5354,3237,3695
+147,AirAsia,I5 1532,Bengaluru,19:10:00,New Delhi,22:05,02 h 55 m,5354,5462,6156
+148,IndiGo,6E 735,Bengaluru,19:20:00,New Delhi,22:05,02 h 45 m,5354,4580,4956
+149,IndiGo,6E 2406,Bengaluru,20:35:00,New Delhi,23:20,02 h 45 m,5354,4090,4236
+150,Air India,AI 511,Bengaluru,14:55:00,New Delhi,18:20,03 h 25 m,5368,6104,6530
+151,Air India,AI 509,Bengaluru,19:35:00,New Delhi,22:35,03 h,5368,6863,4352
+110,Akasa Air,QP 1350,New Delhi,21:00:00,Bengaluru,23:35,02 h 35 m,5400,7141,4084
+111,Akasa Air,QP 1350,New Delhi,21:00:00,Bengaluru,23:35,02 h 35 m,5400,3822,3168
+392,Vistara,UK 880,Hyderabad,13:15:00,New Delhi,15:35,02 h 20 m,5401,6844,6638
+393,Vistara,UK 880,Hyderabad,13:15:00,New Delhi,15:35,02 h 20 m,5401,4877,4477
+286,IndiGo,6E 2284,New Delhi,05:25:00,Kolkata,07:55,02 h 30 m,5408,4512,6489
+287,Vistara,UK 747,New Delhi,06:15:00,Kolkata,08:25,02 h 10 m,5408,4355,5413
+288,IndiGo,6E 5219,New Delhi,06:25:00,Kolkata,08:35,02 h 10 m,5408,4805,7481
+289,IndiGo,6E 6182,New Delhi,15:55:00,Kolkata,18:10,02 h 15 m,5408,7185,3537
+290,IndiGo,6E 2415,New Delhi,17:45:00,Kolkata,20:00,02 h 15 m,5408,3496,6787
+291,IndiGo,6E 2415,New Delhi,17:45:00,Kolkata,20:00,02 h 15 m,5408,3137,6743
+292,IndiGo,6E 2415,New Delhi,17:45:00,Kolkata,20:00,02 h 15 m,5408,6273,7853
+293,IndiGo,6E 2057,New Delhi,19:00:00,Kolkata,21:05,02 h 05 m,5408,4732,6283
+294,IndiGo,6E 2057,New Delhi,19:00:00,Kolkata,21:05,02 h 05 m,5408,6296,7603
+295,SpiceJet,SG 8251,New Delhi,19:30:00,Kolkata,21:40,02 h 10 m,5408,5389,5974
+296,IndiGo,6E 2517,New Delhi,20:30:00,Kolkata,22:40,02 h 10 m,5408,6650,6816
+297,IndiGo,6E 6005,New Delhi,22:50:00,Kolkata,"01:00
++ 1 DAY",02 h 10 m,5408,5262,6477
+298,IndiGo,6E 2603,New Delhi,23:50:00,Kolkata,"02:05
++ 1 DAY",02 h 15 m,5408,4354,6897
+299,Vistara,UK 737,New Delhi,15:45:00,Kolkata,18:05,02 h 20 m,5440,5266,7212
+300,Vistara,UK 737,New Delhi,15:45:00,Kolkata,18:05,02 h 20 m,5440,4348,5357
+394,Vistara,UK 890,Hyderabad,17:40:00,New Delhi,19:55,02 h 15 m,5453,6691,3805
+395,Air India,AI 559,Hyderabad,06:15:00,New Delhi,08:45,02 h 30 m,5472,7850,3371
+396,Air India,AI 559,Hyderabad,06:15:00,New Delhi,08:45,02 h 30 m,5472,6036,7892
+397,Air India,AI 523,Hyderabad,14:10:00,New Delhi,16:35,02 h 25 m,5472,4459,3436
+398,Air India,AI 541,Hyderabad,16:25:00,New Delhi,18:50,02 h 25 m,5472,5023,4892
+399,Air India,AI 840,Hyderabad,20:50:00,New Delhi,23:20,02 h 30 m,5472,4475,7067
+301,Air India,AI 767,New Delhi,12:20:00,Kolkata,14:30,02 h 10 m,5492,4666,4857
+302,Air India,AI 764,New Delhi,17:05:00,Kolkata,19:15,02 h 10 m,5492,7868,6173
+303,Air India,AI 764,New Delhi,17:05:00,Kolkata,19:15,02 h 10 m,5492,6929,3408
+304,Air India,AI 762,New Delhi,21:00:00,Kolkata,23:30,02 h 30 m,5492,6109,4810
+112,Air India,AI 813,New Delhi,08:00:00,Bengaluru,10:55,02 h 55 m,5503,5223,4100
+152,Vistara,UK 820,Bengaluru,17:50:00,New Delhi,20:35,02 h 45 m,5513,4187,3540
+153,Vistara,UK 820,Bengaluru,17:50:00,New Delhi,20:35,02 h 45 m,5513,3233,5500
+154,Vistara,UK 818,Bengaluru,19:40:00,New Delhi,22:20,02 h 40 m,5513,7007,6485
+155,Vistara,UK 814,Bengaluru,21:10:00,New Delhi,23:45,02 h 35 m,5513,3665,3556
+156,Vistara,UK 814,Bengaluru,21:10:00,New Delhi,23:45,02 h 35 m,5513,3532,6985
+28,IndiGo,6E 5294,Mumbai,14:45:00,Bengaluru,16:40,01 h 55 m,5540,4537,7469
+157,Akasa Air,QP 1359,Bengaluru,04:30:00,New Delhi,07:10,02 h 40 m,5552,7789,3005
+73,IndiGo,6E 5255,Bengaluru,18:00:00,Mumbai,19:50,01 h 50 m,5595,6196,5716
+158,SpiceJet,SG 8136,Bengaluru,02:00:00,New Delhi,04:55,02 h 55 m,5596,3120,7382
+159,SpiceJet,SG 8136,Bengaluru,02:00:00,New Delhi,04:55,02 h 55 m,5596,6855,3745
+160,SpiceJet,SG 8198,Bengaluru,20:10:00,New Delhi,23:20,03 h 10 m,5596,5231,5638
+113,IndiGo,6E 2338,New Delhi,20:55:00,Bengaluru,23:40,02 h 45 m,5599,7210,5159
+161,Air India,AI 804,Bengaluru,05:45:00,New Delhi,08:40,02 h 55 m,5618,7609,7646
+162,Air India,AI 503,Bengaluru,17:15:00,New Delhi,20:05,02 h 50 m,5618,6477,4808
+400,SpiceJet,SG 160,Hyderabad,06:10:00,New Delhi,08:25,02 h 15 m,5629,3659,7270
+374,Vistara,UK 829,New Delhi,07:20:00,Hyderabad,09:30,02 h 10 m,5692,3122,5464
+163,IndiGo,6E 122,Bengaluru,07:00:00,New Delhi,09:45,02 h 45 m,5717,5738,7169
+164,AirAsia,I5 741,Bengaluru,11:15:00,New Delhi,14:05,02 h 50 m,5717,7798,5245
+165,AirAsia,I5 741,Bengaluru,11:15:00,New Delhi,14:05,02 h 50 m,5717,5721,5872
+166,IndiGo,6E 2401,Bengaluru,13:50:00,New Delhi,16:35,02 h 45 m,5717,4525,4953
+167,IndiGo,6E 2053,Bengaluru,23:15:00,New Delhi,"02:10
++ 1 DAY",02 h 55 m,5717,5187,4165
+234,Vistara,UK 941,New Delhi,16:55:00,Mumbai,19:05,02 h 10 m,5744,3610,4708
+235,Vistara,UK 999,New Delhi,21:55:00,Mumbai,"00:10
++ 1 DAY",02 h 15 m,5744,5021,6146
+168,Akasa Air,QP 1405,Bengaluru,09:15:00,New Delhi,12:05,02 h 50 m,5772,3425,7699
+169,Vistara,UK 802,Bengaluru,18:45:00,New Delhi,21:25,02 h 40 m,5776,4004,5304
+29,Air India,AI 641,Mumbai,18:55:00,Bengaluru,20:25,01 h 30 m,5783,5468,6295
+305,IndiGo,6E 2788,New Delhi,02:55:00,Kolkata,05:10,02 h 15 m,5849,3483,3447
+306,IndiGo,6E 2788,New Delhi,02:55:00,Kolkata,05:10,02 h 15 m,5849,3335,6147
+307,IndiGo,6E 282,New Delhi,10:10:00,Kolkata,12:10,02 h,5849,7296,3165
+308,IndiGo,6E 6557,New Delhi,13:00:00,Kolkata,15:00,02 h,5849,5879,7547
+170,Air India,AI 501,Bengaluru,13:15:00,New Delhi,15:55,02 h 40 m,5881,7216,4601
+171,Air India,AI 501,Bengaluru,13:15:00,New Delhi,15:55,02 h 40 m,5881,7185,4019
+309,Vistara,UK 707,New Delhi,17:35:00,Kolkata,19:35,02 h,5881,5291,6546
+401,Vistara,UK 830,Hyderabad,10:10:00,New Delhi,12:30,02 h 20 m,5905,5064,7766
+402,Vistara,UK 830,Hyderabad,10:10:00,New Delhi,12:30,02 h 20 m,5905,4537,7643
+271,Air India,AI 806,Mumbai,08:00:00,New Delhi,10:15,02 h 15 m,5919,3431,6603
+30,Vistara,UK 865,Mumbai,18:55:00,Bengaluru,20:55,02 h,5966,6636,6648
+310,SpiceJet,SG 8263,New Delhi,07:10:00,Kolkata,09:30,02 h 20 m,5986,7906,4476
+172,IndiGo,6E 871,Bengaluru,10:30:00,New Delhi,13:20,02 h 50 m,5992,3052,6079
+316,IndiGo,6E 5214,Kolkata,05:25:00,New Delhi,07:50,02 h 25 m,6020,6361,7473
+317,IndiGo,6E 375,Kolkata,07:00:00,New Delhi,09:15,02 h 15 m,6020,5870,4372
+318,IndiGo,6E 6183,Kolkata,18:55:00,New Delhi,21:10,02 h 15 m,6020,4343,7526
+319,IndiGo,6E 898,Kolkata,19:35:00,New Delhi,21:55,02 h 20 m,6020,5062,4223
+320,IndiGo,6E 2224,Kolkata,20:55:00,New Delhi,23:10,02 h 15 m,6020,7677,3060
+321,IndiGo,6E 2224,Kolkata,20:55:00,New Delhi,23:10,02 h 15 m,6020,5673,5874
+322,IndiGo,6E 2224,Kolkata,20:55:00,New Delhi,23:10,02 h 15 m,6020,3968,7631
+323,IndiGo,6E 2716,Kolkata,21:45:00,New Delhi,"00:05
++ 1 DAY",02 h 20 m,6020,3037,6300
+324,IndiGo,6E 2716,Kolkata,21:45:00,New Delhi,"00:05
++ 1 DAY",02 h 20 m,6020,3011,7667
+325,SpiceJet,SG 8265,Kolkata,22:20:00,New Delhi,"00:30
++ 1 DAY",02 h 10 m,6020,6572,5630
+326,IndiGo,6E 2746,Kolkata,23:45:00,New Delhi,"02:00
++ 1 DAY",02 h 15 m,6020,4112,7026
+114,Vistara,UK 813,New Delhi,17:40:00,Bengaluru,20:30,02 h 50 m,6028,6021,6341
+327,Air India,AI 763,Kolkata,06:55:00,New Delhi,09:15,02 h 20 m,6063,4777,7188
+328,Vistara,UK 778,Kolkata,15:15:00,New Delhi,17:50,02 h 35 m,6063,3140,3148
+329,Air India,AI 768,Kolkata,15:25:00,New Delhi,18:10,02 h 45 m,6063,7940,6294
+330,Air India,AI 768,Kolkata,15:25:00,New Delhi,18:10,02 h 45 m,6063,6488,5569
+331,Air India,AI 770,Kolkata,20:00:00,New Delhi,22:35,02 h 35 m,6063,7040,3934
+332,SpiceJet,SG 8373,Kolkata,10:50:00,New Delhi,13:10,02 h 20 m,6064,7635,5939
+333,SpiceJet,SG 8373,Kolkata,10:50:00,New Delhi,13:10,02 h 20 m,6064,7293,3040
+334,Vistara,UK 720,Kolkata,07:10:00,New Delhi,09:35,02 h 25 m,6095,3133,4477
+335,Vistara,UK 706,Kolkata,10:25:00,New Delhi,12:40,02 h 15 m,6095,3168,6306
+336,Vistara,UK 706,Kolkata,10:25:00,New Delhi,12:40,02 h 15 m,6095,4381,6789
+337,Vistara,UK 738,Kolkata,18:45:00,New Delhi,21:20,02 h 35 m,6095,7924,4211
+338,Vistara,UK 708,Kolkata,20:30:00,New Delhi,23:00,02 h 30 m,6095,6944,4524
+74,IndiGo,6E 5376,Bengaluru,19:30:00,Mumbai,21:10,01 h 40 m,6190,7290,4615
+173,Vistara,UK 868,Bengaluru,09:45:00,New Delhi,12:40,02 h 55 m,6196,5027,7432
+339,IndiGo,6E 2513,Kolkata,08:30:00,New Delhi,10:55,02 h 25 m,6212,3058,3167
+340,IndiGo,6E 2759,Kolkata,15:40:00,New Delhi,18:00,02 h 20 m,6212,5763,5730
+115,IndiGo,6E 781,New Delhi,15:30:00,Bengaluru,18:20,02 h 50 m,6216,7932,6303
+116,IndiGo,6E 2302,New Delhi,20:20:00,Bengaluru,23:05,02 h 45 m,6216,7461,5855
+117,IndiGo,6E 2302,New Delhi,20:20:00,Bengaluru,23:05,02 h 45 m,6216,4194,7919
+118,Air India,AI 502,New Delhi,13:40:00,Bengaluru,16:20,02 h 40 m,6343,7514,3977
+119,Air India,AI 815,New Delhi,15:35:00,Bengaluru,18:35,03 h,6343,6233,3601
+120,Air India,AI 807,New Delhi,17:00:00,Bengaluru,20:15,03 h 15 m,6343,5156,4572
+375,Vistara,UK 871,New Delhi,20:35:00,Hyderabad,22:55,02 h 20 m,6343,4140,7563
+311,Air India,AI 401,New Delhi,06:55:00,Kolkata,09:00,02 h 05 m,6374,4009,3780
+312,Air India,AI 401,New Delhi,06:55:00,Kolkata,09:00,02 h 05 m,6374,3759,4866
+341,IndiGo,6E 2345,Kolkata,10:10:00,New Delhi,12:30,02 h 20 m,6420,4089,16132
+342,IndiGo,6E 2345,Kolkata,10:10:00,New Delhi,12:30,02 h 20 m,6420,7233,17919
+343,IndiGo,6E 2358,Kolkata,11:40:00,New Delhi,14:00,02 h 20 m,6420,7980,7075
+121,Vistara,UK 811,New Delhi,06:15:00,Bengaluru,09:05,02 h 50 m,6448,7769,10547
+122,Vistara,UK 817,New Delhi,16:05:00,Bengaluru,18:45,02 h 40 m,6448,3089,17688
+123,Vistara,UK 817,New Delhi,16:05:00,Bengaluru,18:45,02 h 40 m,6448,7504,17374
+31,IndiGo,6E 5221,Mumbai,16:45:00,Bengaluru,18:35,01 h 50 m,6450,4877,14564
+32,IndiGo,6E 5067,Mumbai,18:05:00,Bengaluru,19:55,01 h 50 m,6450,6332,7069
+33,IndiGo,6E 5067,Mumbai,18:05:00,Bengaluru,19:55,01 h 50 m,6450,6034,11639
+34,IndiGo,6E 5256,Mumbai,20:35:00,Bengaluru,22:05,01 h 30 m,6450,6761,8071
+272,IndiGo,6E 2113,Mumbai,19:00:00,New Delhi,21:10,02 h 10 m,6654,4083,12486
+273,IndiGo,6E 2518,Mumbai,20:10:00,New Delhi,22:25,02 h 15 m,6654,3537,17929
+274,IndiGo,6E 2518,Mumbai,20:10:00,New Delhi,22:25,02 h 15 m,6654,7089,14380
+275,IndiGo,6E 2051,Mumbai,21:35:00,New Delhi,23:30,01 h 55 m,6654,4269,11492
+75,Air India,AI 640,Bengaluru,06:45:00,Mumbai,08:35,01 h 50 m,6721,6206,7678
+76,Air India,AI 622,Bengaluru,12:05:00,Mumbai,14:00,01 h 55 m,6721,7326,13512
+77,Air India,AI 622,Bengaluru,12:05:00,Mumbai,14:00,01 h 55 m,6721,5456,8310
+78,Air India,AI 610,Bengaluru,19:20:00,Mumbai,21:20,02 h,6721,5796,8320
+174,Air India,AI 513,Bengaluru,07:05:00,New Delhi,10:00,02 h 55 m,6721,3405,10884
+175,Air India,AI 505,Bengaluru,09:50:00,New Delhi,12:35,02 h 45 m,6721,3844,13167
+35,Vistara,UK 857,Mumbai,21:30:00,Bengaluru,23:15,01 h 45 m,6911,4374,15025
+124,IndiGo,6E 6383,New Delhi,11:45:00,Bengaluru,14:40,02 h 55 m,7020,7272,11605
+125,IndiGo,6E 2514,New Delhi,13:15:00,Bengaluru,16:10,02 h 55 m,7020,3753,11497
+126,IndiGo,6E 2487,New Delhi,17:15:00,Bengaluru,20:00,02 h 45 m,7020,6106,13690
+127,IndiGo,6E 6622,New Delhi,18:55:00,Bengaluru,21:50,02 h 55 m,7020,5410,10240
+176,IndiGo,6E 861,Bengaluru,08:00:00,New Delhi,10:45,02 h 45 m,7142,7936,16742
+177,IndiGo,6E 861,Bengaluru,08:00:00,New Delhi,10:45,02 h 45 m,7142,6803,15468
+128,Air India,AI 512,New Delhi,19:15:00,Bengaluru,22:35,03 h 20 m,7183,4417,13411
+129,Air India,AI 512,New Delhi,19:15:00,Bengaluru,22:35,03 h 20 m,7183,6519,10596
+276,SpiceJet,SG 8191,Mumbai,21:20:00,New Delhi,23:45,02 h 25 m,7422,3989,11220
+130,IndiGo,6E 5608,New Delhi,09:20:00,Bengaluru,12:05,02 h 45 m,7450,3733,10981
+131,IndiGo,6E 6797,New Delhi,10:40:00,Bengaluru,13:35,02 h 55 m,7450,6992,10939
+178,IndiGo,6E 869,Bengaluru,12:00:00,New Delhi,14:45,02 h 45 m,7457,7609,14053
+132,Vistara,UK 819,New Delhi,14:10:00,Bengaluru,16:45,02 h 35 m,7498,7740,14986
+179,Air India,AI 507,Bengaluru,11:45:00,New Delhi,14:35,02 h 50 m,7561,5916,7275
+403,Vistara,UK 860,Hyderabad,07:00:00,New Delhi,08:55,01 h 55 m,7585,4749,7117
+404,Vistara,UK 870,Hyderabad,20:35:00,New Delhi,22:45,02 h 10 m,7606,4335,9131
+36,IndiGo,6E 2244,Mumbai,19:30:00,Bengaluru,21:15,01 h 45 m,7701,5109,17477
+344,Air India,AI 769,Kolkata,10:00:00,New Delhi,12:20,02 h 20 m,8100,7624,11795
+79,IndiGo,6E 5083,Bengaluru,20:40:00,Mumbai,22:20,01 h 40 m,8191,4671,9325
+133,Air India,AI 506,New Delhi,09:40:00,Bengaluru,12:30,02 h 50 m,8233,10962,12586
+313,Vistara,UK 705,New Delhi,07:40:00,Kolkata,09:45,02 h 05 m,8474,12240,14211
+134,Vistara,UK 809,New Delhi,19:50:00,Bengaluru,22:40,02 h 50 m,8495,11879,12196
+135,Vistara,UK 809,New Delhi,19:50:00,Bengaluru,22:40,02 h 50 m,8495,12031,17062
+180,Vistara,UK 810,Bengaluru,07:00:00,New Delhi,09:40,02 h 40 m,8926,12500,17507
+80,Vistara,UK 866,Bengaluru,06:40:00,Mumbai,08:20,01 h 40 m,9346,10517,11897
+81,Vistara,UK 852,Bengaluru,09:30:00,Mumbai,11:25,01 h 55 m,9346,11291,10610
+82,Vistara,UK 854,Bengaluru,18:25:00,Mumbai,20:15,01 h 50 m,9346,8924,12391
+83,Vistara,UK 854,Bengaluru,18:25:00,Mumbai,20:15,01 h 50 m,9346,16344,8849
+37,Air India,AI 603,Mumbai,06:45:00,Bengaluru,08:40,01 h 55 m,9458,12457,17862
+84,IndiGo,6E 259,Bengaluru,08:30:00,Mumbai,10:10,01 h 40 m,9490,13121,15378
+314,Vistara,UK 727,New Delhi,20:30:00,Kolkata,22:20,01 h 50 m,10469,14713,8964
+277,Vistara,UK 928,Mumbai,06:30:00,New Delhi,08:35,02 h 05 m,10539,16804,14000
+278,Vistara,UK 952,Mumbai,12:50:00,New Delhi,14:45,01 h 55 m,10539,16542,16631
+279,Vistara,UK 944,Mumbai,14:40:00,New Delhi,16:55,02 h 15 m,10539,12990,14043
+280,Vistara,UK 944,Mumbai,14:40:00,New Delhi,16:55,02 h 15 m,10539,12183,11969
+281,Vistara,UK 902,Mumbai,15:45:00,New Delhi,18:10,02 h 25 m,10539,14203,13301
+282,Vistara,UK 910,Mumbai,17:25:00,New Delhi,19:35,02 h 10 m,10539,13342,12999
+283,Vistara,UK 996,Mumbai,18:30:00,New Delhi,20:40,02 h 10 m,10539,10727,8682
+284,Vistara,UK 950,Mumbai,21:55:00,New Delhi,"00:10
++ 1 DAY",02 h 15 m,10539,13220,17978
+285,Vistara,UK 986,Mumbai,22:50:00,New Delhi,"01:00
++ 1 DAY",02 h 10 m,10539,13692,13387
+181,Air India,AI 808,Bengaluru,21:00:00,New Delhi,23:55,02 h 55 m,10711,10520,8390
+182,Vistara,UK 816,Bengaluru,11:30:00,New Delhi,14:10,02 h 40 m,10774,15064,9739
+183,Vistara,UK 816,Bengaluru,11:30:00,New Delhi,14:10,02 h 40 m,10774,15203,13904
+85,Vistara,UK 846,Bengaluru,08:30:00,Mumbai,10:10,01 h 40 m,11038,9855,13053
+86,Vistara,UK 840,Bengaluru,21:35:00,Mumbai,23:20,01 h 45 m,11038,13238,8387
+38,Vistara,UK 863,Mumbai,09:05:00,Bengaluru,10:50,01 h 45 m,11521,12050,14925
+39,Vistara,UK 863,Mumbai,09:05:00,Bengaluru,10:50,01 h 45 m,11521,14248,9380
+345,IndiGo,6E 2516,Kolkata,16:45:00,New Delhi,19:05,02 h 20 m,11820,16606,16040
+87,Vistara,UK 850,Bengaluru,19:55:00,Mumbai,21:35,01 h 40 m,11934,8456,9590
+184,IndiGo,6E 2339,Bengaluru,00:30:00,New Delhi,03:20,02 h 50 m,12445,16393,15506
+136,Vistara,UK 815,New Delhi,08:00:00,Bengaluru,10:50,02 h 50 m,13021,8142,14301
+137,Vistara,UK 801,New Delhi,09:10:00,Bengaluru,11:50,02 h 40 m,13021,9165,15356
+138,Vistara,UK 807,New Delhi,20:40:00,Bengaluru,23:20,02 h 40 m,13021,14498,11943
+185,Vistara,UK 808,Bengaluru,08:00:00,New Delhi,10:35,02 h 35 m,13399,15233,17075
+40,IndiGo,6E 5296,Mumbai,07:00:00,Bengaluru,08:40,01 h 40 m,13801,10744,14245
+41,IndiGo,6E 5211,Mumbai,08:30:00,Bengaluru,10:25,01 h 55 m,13801,10987,7466
+42,IndiGo,6E 5212,Mumbai,09:50:00,Bengaluru,11:35,01 h 45 m,13801,13474,14491
+43,Vistara,UK 851,Mumbai,07:00:00,Bengaluru,08:50,01 h 50 m,14183,16007,15120
+88,Vistara,UK 864,Bengaluru,19:00:00,Mumbai,20:35,01 h 35 m,14596,13836,15942
+89,Vistara,UK 864,Bengaluru,19:00:00,Mumbai,20:35,01 h 35 m,14596,13840,13089
+315,IndiGo,6E 5213,New Delhi,09:00:00,Kolkata,11:05,02 h 05 m,15298,11505,14783
+44,Air India,AI 639,Mumbai,09:20:00,Bengaluru,11:10,01 h 50 m,17018,13481,11532
+90,Air India,AI 642,Bengaluru,21:25:00,Mumbai,23:20,01 h 55 m,20581,18097,19942
